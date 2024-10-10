@@ -9,6 +9,7 @@ export default function Header() {
           {/* Site branding */}
           <div className="flex flex-1 items-center">
             <Logo />
+            <span className="ms-2 font-bold text-2xl">DevSh</span>
           </div>
 
           {/* Desktop sign in links */}
